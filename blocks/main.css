@@ -2,3 +2,27 @@
   width: 984px;
   margin: 0 auto;
 }
+
+.main__image {
+  /* width: 984px; */
+  width: 100%;
+  /* height: 615px; */
+  margin-bottom: 92px;
+}
+
+@media screen and (max-width: 768px) {
+  .main {
+    width: 100%;
+  }
+
+  .main__image {
+    /* width: 100%; */
+    margin-bottom: 90px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .main__image {
+    margin-bottom: 64px;
+  }
+}

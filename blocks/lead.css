@@ -1,0 +1,28 @@
+.lead {
+  width: 984px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.lead__title {
+  /* font-style: black; */
+  font-size: 96px;
+  line-height: 100px;
+  width: 720px;
+  height: 200px;
+  margin: 0 auto 32px auto;
+}
+
+.lead__subtitle {
+  font-size: 30px;
+  line-height: 36px;
+  width: 720px;
+  height: 72px;
+  margin: 0 auto 64px auto;
+}
+
+.lead__image {
+  width: 984px;
+  height: 615px;
+  margin-bottom: 92px;
+}

@@ -10,6 +10,7 @@
   margin-bottom: 92px;
 }
 
+/* Identifiqué este punto de ruptura */
 @media screen and (max-width: 999px) {
   .main {
     width: 100%;

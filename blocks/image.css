@@ -1,30 +1,22 @@
-.main {
-  width: 984px;
-  margin: 0 auto;
-}
-
-.main__image {
+.image {
   /* width: 984px; */
   /* height: 615px; */
   width: 100%;
   margin-bottom: 92px;
 }
 
-/* Identifiqué este punto de ruptura */
-@media screen and (max-width: 999px) {
-  .main {
-    width: 100%;
-  }
+.image__kalegin {
+  width: 100%;
 }
 
 @media screen and (max-width: 768px) {
-  .main__image {
+  .content__image {
     margin-bottom: 90px;
   }
 }
 
 @media screen and (max-width: 320px) {
-  .main__image {
+  .content__image {
     margin-bottom: 64px;
   }
 }

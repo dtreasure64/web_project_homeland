@@ -6,7 +6,7 @@
 }
 
 .lead__title {
-  font-style: bold;
+  font-weight: bold;
   font-size: 96px;
   line-height: 100px;
   /* width: 720px; */

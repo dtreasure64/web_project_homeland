@@ -8,18 +8,7 @@
   font-family: "Inter", sans-serif;
   font-weight: normal;
   color: #ffffff;
-  width: 1280px;
+  max-width: 1280px;
   display: flex;
   flex-direction: column;
-}
-
-@media screen and (max-width: 768px) {
-  .page {
-    width: 100%;
-  }
-}
-@media screen and (max-width: 320px) {
-  .page {
-    width: 100%;
-  }
 }

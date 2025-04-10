@@ -1,20 +1,21 @@
 .intro {
-  width: 830px;
-  height: 607px;
+  /* width: 830px; */
+  /* height: 607px; */
+  width: 84%;
   margin-bottom: 92px;
 }
 
 .intro__title {
   font-weight: bold;
   font-size: 54px;
-  line-height: 58;
+  line-height: 58px;
   width: 100%;
   margin-bottom: 40px;
 }
 
 .intro__quote {
   font-size: 24px;
-  line-height: 34;
+  line-height: 34px;
   width: 100%;
   margin-bottom: 32px;
 }
@@ -22,21 +23,24 @@
 .intro__description {
   font-size: 16px;
   line-height: 163%;
-  width: 722px;
-  height: 182px;
+  /* width: 722px; */
+  /* height: 182px; */
+  width: 87%;
 }
 
 @media screen and (max-width: 768px) {
   .intro {
-    width: 720px;
-    height: 573px;
+    /* width: 720px; */
+    /* height: 573px; */
+    width: 94%;
     margin: 0 auto 88px auto;
   }
   .intro__title {
     font-size: 45px;
-    line-height: 49;
-    width: 707px;
-    height: 147px;
+    line-height: 49px;
+    /* width: 707px; */
+    /* height: 147px; */
+    width: 98%;
     margin-bottom: 50px;
   }
   .intro__description {
@@ -46,15 +50,16 @@
 
 @media screen and (max-width: 320px) {
   .intro {
-    width: 288px;
-    height: 1033px;
+    /* width: 288px; */
+    /* height: 1033px; */
+    width: 90%;
     margin-bottom: 64px;
   }
   .intro__title {
     font-size: 32px;
-    line-height: 35;
+    line-height: 35px;
     width: 100%;
-    height: 175px;
+    /* height: 175px; */
     margin-bottom: 40px;
   }
   .intro__quote {
@@ -62,6 +67,6 @@
   }
   .intro__description {
     width: 100%;
-    height: 442px;
+    /* height: 442px; */
   }
 }

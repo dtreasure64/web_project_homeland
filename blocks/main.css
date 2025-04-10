@@ -5,18 +5,19 @@
 
 .main__image {
   /* width: 984px; */
-  width: 100%;
   /* height: 615px; */
+  width: 100%;
   margin-bottom: 92px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 999px) {
   .main {
     width: 100%;
   }
+}
 
+@media screen and (max-width: 768px) {
   .main__image {
-    /* width: 100%; */
     margin-bottom: 90px;
   }
 }

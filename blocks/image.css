@@ -9,6 +9,10 @@
   width: 100%;
 }
 
+.image__kalegin_offset-shadow {
+  box-shadow: 10px 10px 25px rgba(0, 0, 0, 0.5);
+}
+
 @media screen and (max-width: 768px) {
   .content__image {
     margin-bottom: 90px;

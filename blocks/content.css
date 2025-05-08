@@ -1,11 +1,2 @@
 .content {
-  width: 984px;
-  margin: 0 auto;
-}
-
-/* Identifiqué este punto de ruptura */
-@media screen and (max-width: 999px) {
-  .content {
-    width: 100%;
-  }
 }

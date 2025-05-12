@@ -1,6 +1,12 @@
 .places {
-  width: 987px;
-  height: fit-content;
+  width: 77%;
   margin: 0 auto;
   gap: 80px;
+}
+
+@media screen and (max-width: 768px) {
+  .places {
+    width: 93%;
+    gap: 72px;
+  }
 }

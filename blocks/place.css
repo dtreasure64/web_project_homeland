@@ -57,7 +57,7 @@
 }
 
 .place__frame:hover {
-  filter: brightness(0.25);
+  background-image: linear-gradient(90deg, #0278fe40 0%, #003a7b40 100%);
 }
 
 @media screen and (max-width: 768px) {
